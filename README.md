@@ -33,11 +33,6 @@ I am a self-thought programmer interested in web and mobile development.
 <p>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=fuadhy">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadhy"><p>
