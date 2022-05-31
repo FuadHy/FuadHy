@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://i.ibb.co/xffhmFk/github-header-image.png" alt="my banner">
 
-I am a self-thought programmer interested in web and mobile development.
+I am a full-stack developer interested in web and mobile development.
 
 ## 💫 Liitle Bit More About Me
 <p>📫 How to reach me? fuadmail3@gmail.com</p>
